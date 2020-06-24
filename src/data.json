@@ -2,10 +2,10 @@
 	"profiles":[
 		{
 			"basics":{
-				"name":"Garika Lalitha",
+				"name":"Ooha Madhuri",
 				"role":"Student",
-				"email":"lalitha.lalli327@gmail.com",
-				"mobile":"+91 9640046345",
+				"email":"madhuriooha@gmail.com",
+				"mobile":"+91 9640052345",
 				"gender":"female",
 				"address":"vijayawada,Andhra pradesh"
 
@@ -22,17 +22,17 @@
 				{
                     "degree":"B-Tech (Computer Science and Engineering)",
                     "institute":"Lakireddy balireddy College of Engineering",
-                    "result":"87%"
+                    "result":"95%"
 				},
 				{
                     "degree":"Intermediate in MPC",
                     "institute":"Sri chaitanya Junior College",
-                    "result":"92%"
+                    "result":"95%"
 				},
 				{
                     "degree":"S.S.C",
-                    "institute":"Aravindha high school",
-                    "result":"85%"
+                    "institute":" Aravindha high school",
+                    "result":"98%"
 				}
 
 
@@ -40,7 +40,7 @@
 		},
 	    {
 	    	"basics":{
-				"name":"Mulupyri Aksha",
+				"name":"Mulupuri Aksha",
 				"role":"Student",
 				"email":"Mulupuriakshaa@gmail.com",
 				"mobile":"+91 8834887621",
